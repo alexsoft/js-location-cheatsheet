@@ -1,4 +1,4 @@
-#JavaScript Location Cheatsheet
+# JavaScript Location Cheatsheet
 
 ```
 http://www.example.com:8080/segment?get=order#hash
